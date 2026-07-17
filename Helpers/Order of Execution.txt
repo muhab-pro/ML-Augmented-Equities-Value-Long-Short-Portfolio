@@ -1,0 +1,5 @@
+1) Pulling Crsp
+2) Pulling Compustat
+3) Merging init and crsp returns
+4) Building Extension
+5) Final pipeline
