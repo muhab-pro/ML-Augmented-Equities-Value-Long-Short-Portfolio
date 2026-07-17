@@ -1,0 +1,3 @@
+https://dachxiu.chicagobooth.edu/#research
+
+Cliquer sur le dataset pour l'étude "Empiricial Asset Pricing via Machine Learning"
